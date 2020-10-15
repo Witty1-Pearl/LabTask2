@@ -1,0 +1,13 @@
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.csprojAssemblyReference.cache
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.AssemblyInfoInputs.cache
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.AssemblyInfo.cs
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.csproj.CoreCompileInputs.cache
+C:\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.exe
+C:\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.deps.json
+C:\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.runtimeconfig.json
+C:\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.runtimeconfig.dev.json
+C:\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.dll
+C:\LabTask\EmployeeTest\bin\Debug\netcoreapp3.1\EmployeeTest.pdb
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.dll
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.pdb
+C:\LabTask\EmployeeTest\obj\Debug\netcoreapp3.1\EmployeeTest.genruntimeconfig.cache

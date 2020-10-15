@@ -1,0 +1,13 @@
+C:\LabTask\Invoice\bin\Debug\netcoreapp3.1\Invoice.exe
+C:\LabTask\Invoice\bin\Debug\netcoreapp3.1\Invoice.deps.json
+C:\LabTask\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.json
+C:\LabTask\Invoice\bin\Debug\netcoreapp3.1\Invoice.runtimeconfig.dev.json
+C:\LabTask\Invoice\bin\Debug\netcoreapp3.1\Invoice.dll
+C:\LabTask\Invoice\bin\Debug\netcoreapp3.1\Invoice.pdb
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.csprojAssemblyReference.cache
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfoInputs.cache
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.AssemblyInfo.cs
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.csproj.CoreCompileInputs.cache
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.dll
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.pdb
+C:\LabTask\Invoice\obj\Debug\netcoreapp3.1\Invoice.genruntimeconfig.cache

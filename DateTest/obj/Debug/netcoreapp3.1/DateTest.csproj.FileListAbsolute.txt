@@ -1,0 +1,13 @@
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.csprojAssemblyReference.cache
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.AssemblyInfoInputs.cache
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.AssemblyInfo.cs
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.csproj.CoreCompileInputs.cache
+C:\LabTask\DateTest\bin\Debug\netcoreapp3.1\DateTest.exe
+C:\LabTask\DateTest\bin\Debug\netcoreapp3.1\DateTest.deps.json
+C:\LabTask\DateTest\bin\Debug\netcoreapp3.1\DateTest.runtimeconfig.json
+C:\LabTask\DateTest\bin\Debug\netcoreapp3.1\DateTest.runtimeconfig.dev.json
+C:\LabTask\DateTest\bin\Debug\netcoreapp3.1\DateTest.dll
+C:\LabTask\DateTest\bin\Debug\netcoreapp3.1\DateTest.pdb
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.dll
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.pdb
+C:\LabTask\DateTest\obj\Debug\netcoreapp3.1\DateTest.genruntimeconfig.cache
